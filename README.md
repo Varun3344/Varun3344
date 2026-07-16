@@ -10,7 +10,7 @@
 
 ## 💡 What I work on
 
-Full Stack Developer building web and mobile applications with the React and Node ecosystem. I work across the stack — React / Next.js front-ends, Node.js backends, and MongoDB data layers — and extend products with AI-driven pipelines and workflow automation, Firebase push notifications, technical SEO, and Zoho CRM automation. 🎓 BE in Computer Science, 2024 graduate.
+Full Stack Developer with **1.5 years of professional experience**, building web and mobile applications with the React and Node ecosystem. I work across the stack — React / Next.js front-ends, Node.js backends, and MongoDB data layers — and extend products with AI-driven pipelines and workflow automation, Firebase push notifications, technical SEO, and Zoho CRM automation. 🎓 BE in Computer Science, 2024 graduate.
 
 ---
 
@@ -48,15 +48,16 @@ Full Stack Developer building web and mobile applications with the React and Nod
 ## 📌 At a glance
 
 ```
-role:      Software Developer
-focus:     React / Next.js · Node.js · React Native · AI pipelines · SEO · CRM automation
-stack:     JavaScript · TypeScript · Python · Core Java · MongoDB · Firebase
-interests: AI pipelines & workflows · Technical SEO · Zoho CRM journeys · mobile apps
-education: BE Computer Science, 2024
-location:  Bangalore, India
-timezone:  IST (UTC+5:30)
-contact:   varungowda485@gmail.com
-linkedin:  linkedin.com/in/varun-kumar-c-n-015662303
+role:       Software Developer
+experience: 1.5 years @ Smart AI Technology and Solutions
+focus:      React / Next.js · Node.js · React Native · AI pipelines · SEO · CRM automation
+stack:      JavaScript · TypeScript · Python · Core Java · MongoDB · Firebase
+interests:  AI pipelines & workflows · Technical SEO · Zoho CRM journeys · mobile apps
+education:  BE Computer Science, 2024
+location:   Bangalore, India
+timezone:   IST (UTC+5:30)
+contact:    varungowda485@gmail.com
+linkedin:   linkedin.com/in/varun-kumar-c-n-015662303
 ```
 
 ---
