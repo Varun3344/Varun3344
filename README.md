@@ -53,6 +53,7 @@ focus:     React / Next.js · Node.js · React Native · AI pipelines · SEO · 
 stack:     JavaScript · TypeScript · Python · Core Java · MongoDB · Firebase
 interests: AI pipelines & workflows · Technical SEO · Zoho CRM journeys · mobile apps
 education: BE Computer Science, 2024
+location:  Bangalore, India
 timezone:  IST (UTC+5:30)
 contact:   varungowda485@gmail.com
 linkedin:  linkedin.com/in/varun-kumar-c-n-015662303
