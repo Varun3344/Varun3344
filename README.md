@@ -48,7 +48,7 @@ Full Stack Developer building web and mobile applications with the React and Nod
 ## 📌 At a glance
 
 ```
-role:      Softwaare Developer
+role:      Software Developer
 focus:     React / Next.js · Node.js · React Native · AI pipelines · SEO · CRM automation
 stack:     JavaScript · TypeScript · Python · Core Java · MongoDB · Firebase
 interests: AI pipelines & workflows · Technical SEO · Zoho CRM journeys · mobile apps
