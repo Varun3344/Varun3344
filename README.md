@@ -10,7 +10,7 @@
 
 ## 💡 What I work on
 
-Full Stack Developer at **Smart AI Technologies and Solutions** with **1.5+ years of professional experience**, building **LawWorld** (lawworld.ai), an AI legal-tech platform for Indian advocates. I own the public marketing site end to end, build backend microservices in a Node.js / TypeScript monorepo, and design the pipelines that turn court judgments into published content — articles, e-Books, 9:16 reels and long-form videos — using OpenAI, Anthropic, Google Flow, HeyGen, ElevenLabs and ffmpeg. I also wired the platform's product signals into Zoho CRM lead scoring. 🎓 BE in Computer Science, 2024 graduate.
+Full Stack Developer at **Best AiTech Private Limited** with **1.5+ years of professional experience**, building **LawWorld** (lawworld.ai), an AI legal-tech platform for Indian advocates. I own the public marketing site end to end, build backend microservices in a Node.js / TypeScript monorepo, and design the pipelines that turn court judgments into published content — articles, e-Books, 9:16 reels and long-form videos — using OpenAI, Anthropic, Google Flow, HeyGen, ElevenLabs and ffmpeg. I also wired the platform's product signals into Zoho CRM lead scoring. 🎓 BE in Computer Science, 2024 graduate.
 
 ---
 
@@ -125,7 +125,7 @@ Real-time chat app ([front-end](https://github.com/Varun3344/chat-front-end) · 
 
 ```
 role:       Full Stack Developer
-company:    Smart AI Technologies and Solutions — building LawWorld (lawworld.ai)
+company:    Best AiTech Private Limited — building LawWorld (lawworld.ai)
 experience: 1.5+ years
 focus:      Next.js · Node.js microservices · AI video & content pipelines · CRM lead scoring · SEO
 stack:      TypeScript · JavaScript · Python · MongoDB · Playwright · ffmpeg · Cloudflare R2
