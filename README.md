@@ -23,7 +23,9 @@ An HTTP pipeline service plus an admin UI that takes an Indian court judgment PD
 
 - **Eight resumable stages** — `extract → plan → validate → broll → story → review → intro → compose → publish`. Every stage skips itself when its output already exists, so a failed run costs nothing to resume.
 - **AI planning** — OpenAI extracts court, bench, provisions and holding from the PDF, then writes story and B-roll storyboards; a words-per-second fill rule validates every line fits its clip.
-- **Split-frame reel** — presenter in the lower half, B-roll in the upper half, a HeyGen avatar with a cloned ElevenLabs voice for the intro (the only part allowed to name judges), an outro card from a reusable library.
+- **Split-frame reel** — presenter in the lower half, 16:9 B-roll in the upper half framed around the people by a vision model, the presenter's own Google Flow avatar voice for the line that names the bench (an ElevenLabs clone as fallback), and an end card that advertises two product features.
+- **Automatic final gate with self-repair** — every finished reel is transcribed and inspected before release: the judges and the court must be heard and no other judge named, every presenter line must actually be spoken, the cover, presenter framing and end card are measured. A fault is repaired on its own — the clip re-rendered, the intro or cover rebuilt, a refused line reworded — and only then is the reel released; a wrong fact is never released.
+- **Multi-account Google Flow rendering** — a pool of signed-in Google accounts with credit-aware scheduling: B-roll on spare accounts, presenter clips on avatar-verified accounts, several reels in parallel bounded by free memory. The service runs on macOS or in a Linux container (Xvfb + noVNC) against a shared job database.
 - **Human review loop** — jobs pause as `awaiting_review`; admins patch, regenerate, reject or restore individual scenes before approving.
 - **Admin feature** — Reel Maker / Video Maker screens in the Next.js admin (jobs table, scene grid, credits bar, provider health banner, publish dialog), sharing one typed API contract with the service.
 - Clips are probed, contact-sheeted and uploaded to R2 per attempt; finished media publishes into the site's existing `marketing-shorts` / `marketing-videos` feeds.
@@ -115,6 +117,7 @@ Real-time chat app ([front-end](https://github.com/Varun3344/chat-front-end) · 
 
 ## 🌱 Currently exploring
 
+- 📣 Social publishing: auto-captioned reels to Facebook pages and YouTube channels, one connection per state
 - 🎥 Long-form 16:9 judgment videos: case cards, presenter-over-B-roll composition, voice cloning
 - ⚡ Programmatic SEO and content generation at scale
 - ☸️ Microservices on Kubernetes (AKS) and CI for a service monorepo
