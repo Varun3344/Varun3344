@@ -8,7 +8,7 @@
 
 ## 💡 About me
 
-Full Stack Developer at **Best AiTech Private Limited** with 1.5+ years of experience, building **LawWorld** (lawworld.ai), an AI legal-tech platform for Indian advocates. I work across the stack — Next.js front-ends, Node.js microservices and MongoDB — and build generative-AI pipelines for video and written content. 🎓 BE in Computer Science, 2024.
+Full Stack Developer at **Best AiTech Private Limited** with 1.5+ years of experience, currently working on **LawWorld** (lawworld.ai). I work across the stack — React / Next.js front-ends, Node.js microservices and MongoDB — and build generative-AI pipelines. 🎓 BE in Computer Science, 2024.
 
 ---
 
