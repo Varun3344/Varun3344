@@ -18,7 +18,7 @@ Full Stack Developer at **Best AiTech Private Limited** with 1.5+ years of exper
 - **🎨 Frontend & Mobile** — React · Next.js · Tailwind CSS · React Native
 - **⚙️ Backend** — Node.js · Express · REST APIs · Microservices · Socket.IO
 - **🗄️ Databases & Storage** — MongoDB · Mongoose · Firebase · Cloudflare R2 · Cloudinary
-- **🤖 Generative AI** — OpenAI (GPT, image generation) · Anthropic Claude · Google Gemini · Google Flow / Veo · HeyGen · ElevenLabs · NotebookLM · Prompt engineering · AI content & video pipelines
+- **🤖 Generative AI** — OpenAI (GPT, Codex, image generation) · Anthropic Claude · Google Gemini · Google Antigravity · MiniMax · Google Flow / Veo · HeyGen · ElevenLabs · NotebookLM · Prompt engineering · AI content & video pipelines
 - **🧪 Automation & Testing** — Playwright · Chrome Extensions (MV3) · ffmpeg · Vitest
 - **📊 CRM, Payments & SEO** — Zoho CRM · Razorpay · Technical SEO · JSON-LD · Sitemaps
 - **🧰 Tools** — Git · GitHub · GitHub Actions · Kubernetes (AKS) · VS Code
