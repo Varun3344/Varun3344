@@ -14,77 +14,90 @@ Full Stack Developer at **Best AiTech Private Limited** with 1.5+ years of exper
 
 ## 🛠️ Core Stack
 
-<div align="center">
-
-**Languages**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Core_Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-**Mobile**
-
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![React Navigation](https://img.shields.io/badge/React_Navigation-6B52AE?style=for-the-badge&logo=react&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
-![FCM](https://img.shields.io/badge/Push_Notifications_%28FCM%29-FFA000?style=for-the-badge&logo=firebase&logoColor=white)
-
-**Backend & Data**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-0052CC?style=for-the-badge)
-![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-![Cloudflare R2](https://img.shields.io/badge/Cloudflare_R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-
-**Generative AI**
-
-![OpenAI](https://img.shields.io/badge/OpenAI_GPT-412991?style=for-the-badge)
-![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge)
-![Claude](https://img.shields.io/badge/Anthropic_Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![MiniMax](https://img.shields.io/badge/MiniMax-F23F5D?style=for-the-badge&logo=minimax&logoColor=white)
-![Google Flow](https://img.shields.io/badge/Google_Flow_%2F_Veo-1A73E8?style=for-the-badge&logo=google&logoColor=white)
-![HeyGen](https://img.shields.io/badge/HeyGen-7559FF?style=for-the-badge)
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white)
-![NotebookLM](https://img.shields.io/badge/NotebookLM-202124?style=for-the-badge&logo=notebooklm&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-10A37F?style=for-the-badge)
-![AI Pipelines](https://img.shields.io/badge/AI_Video_%26_Content_Pipelines-FF6F00?style=for-the-badge)
-
-**Automation, CRM & SEO**
-
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge)
-![Chrome Extensions](https://img.shields.io/badge/Chrome_Extensions_%28MV3%29-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
-![Zoho CRM](https://img.shields.io/badge/Zoho_CRM-E42527?style=for-the-badge&logo=zoho&logoColor=white)
-![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white)
-![Technical SEO](https://img.shields.io/badge/Technical_SEO-458CF5?style=for-the-badge&logo=googlesearchconsole&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge)
-
-</div>
+<table>
+<tr>
+<td><b>💻&nbsp;Languages</b></td>
+<td>
+<img src="https://img.shields.io/badge/TypeScript-1a1b27?style=flat&logo=typescript&logoColor=3178C6" height="28" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/JavaScript-1a1b27?style=flat&logo=javascript&logoColor=F7DF1E" height="28" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Python-1a1b27?style=flat&logo=python&logoColor=FFD43B" height="28" alt="Python"/>
+<img src="https://img.shields.io/badge/Core_Java-1a1b27?style=flat&logo=openjdk&logoColor=ED8B00" height="28" alt="Core Java"/>
+<img src="https://img.shields.io/badge/HTML5-1a1b27?style=flat&logo=html5&logoColor=E34F26" height="28" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1a1b27?style=flat&logo=css&logoColor=42A5F5" height="28" alt="CSS3"/>
+</td>
+</tr>
+<tr>
+<td><b>🎨&nbsp;Frontend</b></td>
+<td>
+<img src="https://img.shields.io/badge/React.js-1a1b27?style=flat&logo=react&logoColor=61DAFB" height="28" alt="React.js"/>
+<img src="https://img.shields.io/badge/Next.js-1a1b27?style=flat&logo=nextdotjs&logoColor=white" height="28" alt="Next.js"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-1a1b27?style=flat&logo=tailwindcss&logoColor=06B6D4" height="28" alt="Tailwind CSS"/>
+</td>
+</tr>
+<tr>
+<td><b>📱&nbsp;Mobile</b></td>
+<td>
+<img src="https://img.shields.io/badge/React_Native-1a1b27?style=flat&logo=react&logoColor=61DAFB" height="28" alt="React Native"/>
+<img src="https://img.shields.io/badge/Expo-1a1b27?style=flat&logo=expo&logoColor=white" height="28" alt="Expo"/>
+<img src="https://img.shields.io/badge/React_Navigation-1a1b27?style=flat&logo=react&logoColor=A78BFA" height="28" alt="React Navigation"/>
+<img src="https://img.shields.io/badge/Firebase-1a1b27?style=flat&logo=firebase&logoColor=FFCA28" height="28" alt="Firebase"/>
+<img src="https://img.shields.io/badge/Push_Notifications_%28FCM%29-1a1b27?style=flat&logo=firebase&logoColor=FF9100" height="28" alt="Push Notifications (FCM)"/>
+</td>
+</tr>
+<tr>
+<td><b>⚙️&nbsp;Backend&nbsp;&amp;&nbsp;Data</b></td>
+<td>
+<img src="https://img.shields.io/badge/Node.js-1a1b27?style=flat&logo=nodedotjs&logoColor=5FA04E" height="28" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express.js-1a1b27?style=flat&logo=express&logoColor=white" height="28" alt="Express.js"/>
+<img src="https://img.shields.io/badge/REST_APIs-1a1b27?style=flat" height="28" alt="REST APIs"/>
+<img src="https://img.shields.io/badge/Microservices-1a1b27?style=flat" height="28" alt="Microservices"/>
+<img src="https://img.shields.io/badge/Socket.IO-1a1b27?style=flat&logo=socketdotio&logoColor=white" height="28" alt="Socket.IO"/>
+<img src="https://img.shields.io/badge/MongoDB-1a1b27?style=flat&logo=mongodb&logoColor=47A248" height="28" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/Mongoose-1a1b27?style=flat&logo=mongoose&logoColor=F04D35" height="28" alt="Mongoose"/>
+<img src="https://img.shields.io/badge/Cloudflare_R2-1a1b27?style=flat&logo=cloudflare&logoColor=F38020" height="28" alt="Cloudflare R2"/>
+<img src="https://img.shields.io/badge/Cloudinary-1a1b27?style=flat&logo=cloudinary&logoColor=5C7CFA" height="28" alt="Cloudinary"/>
+</td>
+</tr>
+<tr>
+<td><b>🤖&nbsp;Generative&nbsp;AI</b></td>
+<td>
+<img src="https://img.shields.io/badge/OpenAI_GPT-1a1b27?style=flat" height="28" alt="OpenAI GPT"/>
+<img src="https://img.shields.io/badge/Codex-1a1b27?style=flat" height="28" alt="Codex"/>
+<img src="https://img.shields.io/badge/Anthropic_Claude-1a1b27?style=flat&logo=claude&logoColor=D97757" height="28" alt="Anthropic Claude"/>
+<img src="https://img.shields.io/badge/Google_Gemini-1a1b27?style=flat&logo=googlegemini&logoColor=A58BD6" height="28" alt="Google Gemini"/>
+<img src="https://img.shields.io/badge/Google_Antigravity-1a1b27?style=flat&logo=google&logoColor=4285F4" height="28" alt="Google Antigravity"/>
+<img src="https://img.shields.io/badge/MiniMax-1a1b27?style=flat&logo=minimax&logoColor=F23F5D" height="28" alt="MiniMax"/>
+<img src="https://img.shields.io/badge/Google_Flow_%2F_Veo-1a1b27?style=flat&logo=google&logoColor=4285F4" height="28" alt="Google Flow / Veo"/>
+<img src="https://img.shields.io/badge/HeyGen-1a1b27?style=flat" height="28" alt="HeyGen"/>
+<img src="https://img.shields.io/badge/ElevenLabs-1a1b27?style=flat&logo=elevenlabs&logoColor=white" height="28" alt="ElevenLabs"/>
+<img src="https://img.shields.io/badge/NotebookLM-1a1b27?style=flat&logo=notebooklm&logoColor=white" height="28" alt="NotebookLM"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-1a1b27?style=flat" height="28" alt="Prompt Engineering"/>
+<img src="https://img.shields.io/badge/AI_Video_%26_Content_Pipelines-1a1b27?style=flat" height="28" alt="AI Video & Content Pipelines"/>
+</td>
+</tr>
+<tr>
+<td><b>🧪&nbsp;Automation,&nbsp;CRM&nbsp;&amp;&nbsp;SEO</b></td>
+<td>
+<img src="https://img.shields.io/badge/Playwright-1a1b27?style=flat" height="28" alt="Playwright"/>
+<img src="https://img.shields.io/badge/Chrome_Extensions_%28MV3%29-1a1b27?style=flat&logo=googlechrome&logoColor=4285F4" height="28" alt="Chrome Extensions (MV3)"/>
+<img src="https://img.shields.io/badge/FFmpeg-1a1b27?style=flat&logo=ffmpeg&logoColor=3FB950" height="28" alt="FFmpeg"/>
+<img src="https://img.shields.io/badge/Vitest-1a1b27?style=flat&logo=vitest&logoColor=FCC72B" height="28" alt="Vitest"/>
+<img src="https://img.shields.io/badge/Zoho_CRM-1a1b27?style=flat&logo=zoho&logoColor=E42527" height="28" alt="Zoho CRM"/>
+<img src="https://img.shields.io/badge/Razorpay-1a1b27?style=flat&logo=razorpay&logoColor=3395FF" height="28" alt="Razorpay"/>
+<img src="https://img.shields.io/badge/Technical_SEO-1a1b27?style=flat&logo=googlesearchconsole&logoColor=458CF5" height="28" alt="Technical SEO"/>
+</td>
+</tr>
+<tr>
+<td><b>🧰&nbsp;Tools</b></td>
+<td>
+<img src="https://img.shields.io/badge/Git-1a1b27?style=flat&logo=git&logoColor=F05032" height="28" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-1a1b27?style=flat&logo=github&logoColor=white" height="28" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-1a1b27?style=flat&logo=githubactions&logoColor=2088FF" height="28" alt="GitHub Actions"/>
+<img src="https://img.shields.io/badge/Kubernetes-1a1b27?style=flat&logo=kubernetes&logoColor=5C8DF6" height="28" alt="Kubernetes"/>
+<img src="https://img.shields.io/badge/VS_Code-1a1b27?style=flat" height="28" alt="VS Code"/>
+</td>
+</tr>
+</table>
 
 ---
 
