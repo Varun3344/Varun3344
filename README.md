@@ -2,7 +2,7 @@
 
 **🚀 Full Stack Developer · React & Node.js · React Native · Generative AI Pipelines**
 
-📍 Bangalore, India · 📧 [Email](mailto:varungowda485@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/varun-kumar-c-n-015662303)
+📍 Bangalore, India · 📧 [Email](mailto:varungowda485@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/varun-kumar-c-n-015662303) · 🌐 [Portfolio](https://varun3344.github.io/)
 
 ---
 
