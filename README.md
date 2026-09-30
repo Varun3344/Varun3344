@@ -103,4 +103,29 @@ Full Stack Developer at **Best AiTech Private Limited** with 1.5+ years of exper
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Varun3344&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Varun3344&theme=tokyonight" alt="Contribution summary"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Varun3344&theme=tokyonight" height="165" alt="Top languages by repo"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Varun3344&theme=tokyonight" height="165" alt="Top languages by commit"/>
+
+</div>
+
+---
+
+## 🔭 Currently exploring
+
+- Agentic AI workflows — multi-step LLM pipelines with tool calling, structured outputs and self-correcting review loops.
+- Generative video in depth — text-to-video models, avatar and voice cloning, multilingual narration.
+- RAG and embeddings — retrieval over large document collections with grounded, cited answers.
+- LLM evaluation and guardrails — automated fact checks and quality gates before AI output is published.
+- AI coding agents — Claude Code, Codex and Antigravity in day-to-day development.
+
+---
+
 ⭐ *Thanks for visiting — feel free to connect!*
